@@ -27,7 +27,7 @@ We can observe there are some fluctuations in the number of users and sessions, 
 Here’s what we can analyze from the above scatter plots:
 <br>
 1. Average Engagement Time vs Events per Session: There appears to be a concentration of data points at lower average engagement times with a wide range of events per session. As the average engagement time increases, the number of events per session tends to cluster more narrowly around lower values.
-<br.
+<br>
 2. Average Engagement Time vs Engagement Rate: There is a clear trend where sessions with very low engagement times have a broad range of engagement rates, but as engagement time increases, the engagement rate converges towards higher values.
 <br>
 3. Engaged Sessions per User vs Events per Session: Most data points cluster at lower values for both metrics, with few users having a high number of engaged sessions or events per session.
